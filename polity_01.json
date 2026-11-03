@@ -1,0 +1,52 @@
+[
+  {
+    "q": "Bhartiya Samvidhan ke kis Anuchhed mein 'Bharat arthat India' ka ullekh hai?",
+    "opt": ["Anuchhed 1", "Anuchhed 2", "Anuchhed 3", "Anuchhed 4"],
+    "ans": 0
+  },
+  {
+    "q": "Naye rajyon ka pravesh ya sthapna Sansad kis Anuchhed ke tahat karti hai?",
+    "opt": ["Anuchhed 1", "Anuchhed 2", "Anuchhed 3", "Anuchhed 4"],
+    "ans": 1
+  },
+  {
+    "q": "Naye rajyon ka nirman aur vartaman rajyon ke simaon mein parivartan kis Anuchhed se hota hai?",
+    "opt": ["Anuchhed 2", "Anuchhed 3", "Anuchhed 4", "Anuchhed 5"],
+    "ans": 1
+  },
+  {
+    "q": "Samvidhan ke prarambh par nagrikta ka pravdhan kis Anuchhed mein hai?",
+    "opt": ["Anuchhed 5", "Anuchhed 6", "Anuchhed 7", "Anuchhed 8"],
+    "ans": 0
+  },
+  {
+    "q": "Pakistan se Bharat aane wale vyaktiyon ki nagrikta ke adhikar kis Anuchhed mein hain?",
+    "opt": ["Anuchhed 5", "Anuchhed 6", "Anuchhed 7", "Anuchhed 8"],
+    "ans": 1
+  },
+  {
+    "q": "Videshi rajya ki nagrikta lene par Bharat ki nagrikta samapt hone ka niyam kis Anuchhed mein hai?",
+    "opt": ["Anuchhed 8", "Anuchhed 9", "Anuchhed 10", "Anuchhed 11"],
+    "ans": 1
+  },
+  {
+    "q": "Nagrikta ke adhikar ka bana rahna kis Anuchhed mein varnit hai?",
+    "opt": ["Anuchhed 9", "Anuchhed 10", "Anuchhed 11", "Anuchhed 12"],
+    "ans": 1
+  },
+  {
+    "q": "Sansad dwara nagrikta ke adhikar ka vidhi dwara viniyaman kis Anuchhed ke tahat hota hai?",
+    "opt": ["Anuchhed 10", "Anuchhed 11", "Anuchhed 12", "Anuchhed 13"],
+    "ans": 1
+  },
+  {
+    "q": "Bhartiya Samvidhan ke kis bhag mein nagrikta ka ullekh hai?",
+    "opt": ["Bhag 1", "Bhag 2", "Bhag 3", "Bhag 4"],
+    "ans": 1
+  },
+  {
+    "q": "Samvidhan ka Bhag 1 kisse sambandhit hai?",
+    "opt": ["Sangh aur uska Rajya Kshetra", "Nagrikta", "Maulik Adhikar", "Niti Nideshak Tatva"],
+    "ans": 0
+  }
+]
