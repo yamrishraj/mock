@@ -1,0 +1,13 @@
+[
+  {
+    "subject": "Polity",
+    "tests": [
+      {
+        "test_id": "polity_01",
+        "title": "Polity Part 1 (Article 1 to 10)",
+        "total_questions": 10,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_01.json"
+      }
+    ]
+  }
+]
