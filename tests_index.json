@@ -24,6 +24,12 @@
         "title": "Mock 1 (GK/GS Special)",
         "total_questions": 50,
         "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_police_mock_01.json"
+      },
+      {
+        "test_id": "bihar_police_mock_02",
+        "title": "Mock 2 (GK/GS Special)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_police_mock_02.json"
       }
     ]
   }
