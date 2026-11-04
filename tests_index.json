@@ -9,5 +9,16 @@
         "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_01.json"
       }
     ]
+  },
+  {
+    "subject": "Bihar Police",
+    "tests": [
+      {
+        "test_id": "bihar_police_mock_01",
+        "title": "Mock 1 (GK/GS Special)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_police_mock_01.json"
+      }
+    ]
   }
 ]
