@@ -31,6 +31,42 @@
           "title": "Polity Part 5",
           "total_questions": 50,
           "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_05.json"
+        },
+      {
+          "test_id": "polity_06",
+          "title": "Polity Part 6",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_06.json"
+        },
+        {
+          "test_id": "polity_07",
+          "title": "Polity Part 7",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_07.json"
+        },
+        {
+          "test_id": "polity_08",
+          "title": "Polity Part 8",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_08.json"
+        },
+        {
+          "test_id": "polity_08_5",
+          "title": "Polity Part 8.5",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_08_5.json"
+        },
+        {
+          "test_id": "polity_09",
+          "title": "Polity Part 9",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_09.json"
+        },
+        {
+          "test_id": "polity_10",
+          "title": "Polity Part 10",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_10.json"
         }
     ]
   },
