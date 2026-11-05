@@ -19,6 +19,18 @@
           "title": "Polity Part 3",
           "total_questions": 10,
           "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_03.json"
+        },
+      {
+          "test_id": "polity_04",
+          "title": "Polity Part 4",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_04.json"
+        },
+        {
+          "test_id": "polity_05",
+          "title": "Polity Part 5",
+          "total_questions": 50,
+          "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_05.json"
         }
     ]
   },
