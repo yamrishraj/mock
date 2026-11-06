@@ -127,7 +127,13 @@
           "title": "Polity Part 20",
           "total_questions": 50,
           "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_20.json"
-        }
+        },
+      {
+      "test_id": "polity_21",
+      "title": "Polity Part 21",
+      "total_questions": 50,
+      "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_21.json"
+    }
     ]
   },
   {
