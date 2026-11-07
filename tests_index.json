@@ -205,6 +205,30 @@
       "title": "Polity Part 31",
       "total_questions": 50,
       "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_31.json"
+    },
+      {
+      "test_id": "polity_32",
+      "title": "Polity Part 32",
+      "total_questions": 50,
+      "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_32.json"
+    },
+    {
+      "test_id": "polity_33",
+      "title": "Polity Part 33",
+      "total_questions": 50,
+      "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_33.json"
+    },
+    {
+      "test_id": "polity_34",
+      "title": "Polity Part 34",
+      "total_questions": 50,
+      "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_34.json"
+    },
+    {
+      "test_id": "polity_35",
+      "title": "Polity Part 35",
+      "total_questions": 50,
+      "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/polity_35.json"
     }
     ]
   },
