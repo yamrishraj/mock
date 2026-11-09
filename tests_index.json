@@ -1,5 +1,7 @@
 [
   {
+    "show_quiz_ads": false,
+
     "subject": "Polity",
     "tests": [
       {
