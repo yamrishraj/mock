@@ -255,5 +255,269 @@
         "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_police_mock_02.json"
       }
     ]
+  },
+  {
+    "show_quiz_ads": false,
+    "subject": "Bihar Special",
+    "tests": [
+      {
+        "test_id": "bihar_special_01",
+        "title": "Bihar Special Part 1 (बिहार का गठन)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_01.json"
+      },
+      {
+        "test_id": "bihar_special_02",
+        "title": "Bihar Special Part 2 (बिहार का गठन (भाग 2))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_02.json"
+      },
+      {
+        "test_id": "bihar_special_03",
+        "title": "Bihar Special Part 3 (बिहार का गठन (भाग 3))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_03.json"
+      },
+      {
+        "test_id": "bihar_special_04",
+        "title": "Bihar Special Part 4 (बिहार का गठन व झारखंड)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_04.json"
+      },
+      {
+        "test_id": "bihar_special_05",
+        "title": "Bihar Special Part 5 (बिहार की भौगोलिक संरचना)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_05.json"
+      },
+      {
+        "test_id": "bihar_special_06",
+        "title": "Bihar Special Part 6 (सीमाएं और विस्तार)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_06.json"
+      },
+      {
+        "test_id": "bihar_special_07",
+        "title": "Bihar Special Part 7 (सीमाएं और प्रमंडल)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_07.json"
+      },
+      {
+        "test_id": "bihar_special_08",
+        "title": "Bihar Special Part 8 (जिले, मुख्यालय और विशेष सीमाएं)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_08.json"
+      },
+      {
+        "test_id": "bihar_special_09",
+        "title": "Bihar Special Part 9 (भौतिक विभाजन व सीमांत जिले)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_09.json"
+      },
+      {
+        "test_id": "bihar_special_10",
+        "title": "Bihar Special Part 10 (शिवालिक श्रेणी का विस्तार)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_10.json"
+      },
+      {
+        "test_id": "bihar_special_11",
+        "title": "Bihar Special Part 11 (Geographical Structure of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_11.json"
+      },
+      {
+        "test_id": "bihar_special_12",
+        "title": "Bihar Special Part 12 (Geography MCQs)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_12.json"
+      },
+      {
+        "test_id": "bihar_special_13",
+        "title": "Bihar Special Part 13 (Southern Plateau of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_13.json"
+      },
+      {
+        "test_id": "bihar_special_14",
+        "title": "Bihar Special Part 14 (Southern Plateau (Part 2))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_14.json"
+      },
+      {
+        "test_id": "bihar_special_15",
+        "title": "Bihar Special Part 15 (Rocks of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_15.json"
+      },
+      {
+        "test_id": "bihar_special_16",
+        "title": "Bihar Special Part 16 (Geography MCQs (Part 2))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_16.json"
+      },
+      {
+        "test_id": "bihar_special_17",
+        "title": "Bihar Special Part 17 (Climate of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_17.json"
+      },
+      {
+        "test_id": "bihar_special_18",
+        "title": "Bihar Special Part 18 (Climate of Bihar (Part 2))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_18.json"
+      },
+      {
+        "test_id": "bihar_special_19",
+        "title": "Bihar Special Part 19 (बिहार की नदियाँ)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_19.json"
+      },
+      {
+        "test_id": "bihar_special_20",
+        "title": "Bihar Special Part 20 (Rivers of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_20.json"
+      },
+      {
+        "test_id": "bihar_special_21",
+        "title": "Bihar Special Part 21 (Rivers of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_21.json"
+      },
+      {
+        "test_id": "bihar_special_22",
+        "title": "Bihar Special Part 22 (Rivers of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_22.json"
+      },
+      {
+        "test_id": "bihar_special_23",
+        "title": "Bihar Special Part 23 (Rivers of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_23.json"
+      },
+      {
+        "test_id": "bihar_special_24",
+        "title": "Bihar Special Part 24 (Rivers of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_24.json"
+      },
+      {
+        "test_id": "bihar_special_25",
+        "title": "Bihar Special Part 25 (Rivers of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_25.json"
+      },
+      {
+        "test_id": "bihar_special_26",
+        "title": "Bihar Special Part 26 (Waterfalls, Lakes & Ramsar Sites)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_26.json"
+      },
+      {
+        "test_id": "bihar_special_27",
+        "title": "Bihar Special Part 27 (National Parks & Zoo)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_27.json"
+      },
+      {
+        "test_id": "bihar_special_28",
+        "title": "Bihar Special Part 28 (Wildlife Sanctuaries & MCQs)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_28.json"
+      },
+      {
+        "test_id": "bihar_special_29",
+        "title": "Bihar Special Part 29 (Forests & Soils of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_29.json"
+      },
+      {
+        "test_id": "bihar_special_30",
+        "title": "Bihar Special Part 30 (Soils of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_30.json"
+      },
+      {
+        "test_id": "bihar_special_31",
+        "title": "Bihar Special Part 31 (Soils of Bihar (Part 3))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_31.json"
+      },
+      {
+        "test_id": "bihar_special_32",
+        "title": "Bihar Special Part 32 (Soils of Bihar (Part 4))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_32.json"
+      },
+      {
+        "test_id": "bihar_special_33",
+        "title": "Bihar Special Part 33 (Agriculture of Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_33.json"
+      },
+      {
+        "test_id": "bihar_special_34",
+        "title": "Bihar Special Part 34 (Agricultural)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_34.json"
+      },
+      {
+        "test_id": "bihar_special_35",
+        "title": "Bihar Special Part 35 (Minerals and Industries in Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_35.json"
+      },
+      {
+        "test_id": "bihar_special_36",
+        "title": "Bihar Special Part 36 (Transport in Bihar)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_36.json"
+      },
+      {
+        "test_id": "bihar_special_37",
+        "title": "Bihar Special Part 37 (Bihar Polity)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_37.json"
+      },
+      {
+        "test_id": "bihar_special_38",
+        "title": "Bihar Special Part 38 (Bihar Transport (MCQs))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_38.json"
+      },
+      {
+        "test_id": "bihar_special_39",
+        "title": "Bihar Special Part 39 (Bihar Polity)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_39.json"
+      },
+      {
+        "test_id": "bihar_special_40",
+        "title": "Bihar Special Part 40 (Bihar Polity (Part 2))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_40.json"
+      },
+      {
+        "test_id": "bihar_special_41",
+        "title": "Bihar Special Part 41 (Bihar Census 2011)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_41.json"
+      },
+      {
+        "test_id": "bihar_special_42",
+        "title": "Bihar Special Part 42 (Bihar Budget & Survey)",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_42.json"
+      },
+      {
+        "test_id": "bihar_special_43",
+        "title": "Bihar Special Part 43 (Bihar Special (Culture & Polity))",
+        "total_questions": 50,
+        "json_url": "https://raw.githubusercontent.com/yamrishraj/mock/main/bihar_special_43.json"
+      }
+    ]
   }
 ]
